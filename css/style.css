@@ -484,7 +484,7 @@ ul {
 /* line 24, /Applications/MAMP/htdocs/palash/cl/july 2019/192 Agency/192 Agency html/sass/_button.scss */
 .btn_1 {
   display: inline-block;
-  padding: 27px 70px;
+  padding: 17px 30px;
   background-color: #00d089;
   font-size: 14px;
   color: #fff;
@@ -492,7 +492,7 @@ ul {
   transition: 0.5s;
   text-transform: capitalize;
   border: 1px solid transparent;
-  border-radius: 50px;
+  border-radius: 4px;
   line-height: 15px;
 }
 
@@ -772,7 +772,7 @@ ul {
 .single-blog .tag {
   text-align: left;
   display: inline-block;
-  float: left;
+  /* float: left; */
   font-size: 13px;
   font-weight: 300;
   margin-right: 22px;
